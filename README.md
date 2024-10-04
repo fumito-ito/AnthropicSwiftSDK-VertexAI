@@ -1,6 +1,6 @@
 # Anthropic Swift SDK VertexAI Extension
 
-[Anthropic API Swift SDK](https://github.com/fumito-ito/AnthropicSwiftSDK) Extension for [Amazon Web Services Bedrock](https://cloud.google.com/vertex-ai).
+[Anthropic API Swift SDK](https://github.com/fumito-ito/AnthropicSwiftSDK) Extension for [Google VertexAI](https://cloud.google.com/vertex-ai).
 
 ## Installation
 
